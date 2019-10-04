@@ -1,3 +1,0 @@
-# little-big
-
-Site place
