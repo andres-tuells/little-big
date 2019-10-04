@@ -7,7 +7,7 @@
     "doc": "docs"
   },
   "scripts": {
-    "deploy": "rm -rf ./docs && cp -R src docs && cp CNAME docs/"
+    "deploy": "rm -rf ./docs && cp -R src docs && cp CNAME docs/ && cp .nojekyll docs/"
   },
   "author": "",
   "license": "ISC"
